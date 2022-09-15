@@ -20,7 +20,7 @@ module.exports = {
         name: 'RoverCore Documentation',
         description:
           'RoverCore is designed for beginner to intermediate ASP.NET core developers to learn how to develop ASP.NET SaaS applications. I contributed predominantly on the DTOs (Data Transfer Objects) page.',
-        link: 'https://rovercore.github.io/Documentation/docs/contributors/',
+        link: 'https://rovercore.github.io/Documentation/docs/concepts/dto/',
       },
       {
         name: 'LawnHolder',
