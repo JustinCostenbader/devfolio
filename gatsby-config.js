@@ -1,75 +1,70 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://justincostenbader.netlify.app/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Justin Costenbader',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Justin Costenbader | Computer Science Student`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
-    // Optional: Twitter account handle
-    author: `@rfitzio`,
+    description: `Computer Science Student from Pennsylvania.`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/justincostenbader`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/justincostenbader`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I'm a first year computer science student at Kutztown University of Pennsylvania.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'RoverCore Documentation',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'RoverCore is designed for beginner to intermediate ASP.NET core developers to learn how to develop ASP.NET SaaS applications. I contributed predominantly on the DTOs (Data Transfer Objects) page.',
+        link: 'https://rovercore.github.io/Documentation/docs/contributors/',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'LawnHolder',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'LawnHolder was a school startup using the RoverCore boilerplate in attempt to create a SaaS application. You can check out my commits in the github source code. I was the team Scrum Master and integrated many of the .NET UI components.',
+        link: 'https://github.com/JustinCostenbader/LawnHolder',
       },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+     
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'AP Computer Science Principles (High School)',
+        description: 'Learned JavaScript and the basics of computer science, 2019',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Computer Science A (High School)',
+        description: 'Introduced Java, classes, and inheritance, 2020',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Advanced Data Structures and Algorithms (High School)',
+        description: 'Introduced C#, Big O notation, frameworks, etc. , 2021',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages & Frameworks',
+        name: 'Languages',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'JavaScript, Java, C#, HTML, CSS',
       },
       {
-        name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        name: 'Frameworks',
+        description: 'ASP.NET Core',
       },
       {
-        name: 'Other',
+        name: 'Project Management',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Agile / Scrum',
+      },
+      {
+        name: 'Ongoing',
+        description:
+          'C++ and the Unix Environment',
       },
     ],
   },
