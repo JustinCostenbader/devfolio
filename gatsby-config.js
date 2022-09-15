@@ -35,14 +35,17 @@ module.exports = {
       {
         name: 'AP Computer Science Principles (High School)',
         description: 'Learned JavaScript and the basics of computer science, 2019',
+        link: '',
       },
       {
         name: 'Computer Science A (High School)',
         description: 'Introduced Java, classes, and inheritance, 2020',
+        link: '',
       },
       {
         name: 'Advanced Data Structures and Algorithms (High School)',
         description: 'Introduced C#, Big O notation, frameworks, etc. , 2021',
+        link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
