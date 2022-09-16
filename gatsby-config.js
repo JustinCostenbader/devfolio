@@ -13,7 +13,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/justincostenbader`,
     // Content of the About Me section
-    about: `I'm a first year computer science student at Kutztown University of Pennsylvania.`,
+    about: `I'm a first year computer science student at Kutztown University of Pennsylvania. After college, I'd like to have a career as a full-stack or web developer.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
