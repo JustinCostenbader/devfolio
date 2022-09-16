@@ -12,7 +12,6 @@ module.exports = {
     github: `https://github.com/justincostenbader`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/justincostenbader`,
-    author: `justincostenbader@gmail.com`,
     // Content of the About Me section
     about: `I'm a first year computer science student at Kutztown University of Pennsylvania.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
