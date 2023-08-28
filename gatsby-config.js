@@ -13,7 +13,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/justincostenbader`,
     // Content of the About Me section
-    about: `I'm a first year computer science student at Kutztown University of Pennsylvania. After college, I'd like to have a career as a full-stack or web developer.`,
+    about: `I'm a second year computer science student at Kutztown University of Pennsylvania. After college, I'd like to pursue a career as a software engineer or web developer.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -33,8 +33,24 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'AP Computer Science Principles (High School)',
-        description: 'Learned JavaScript and the basics of computer science, 2019',
+        name: 'Computer Science II',
+        description: 'Introduced enumeration, structs, classes, inheritance, pointers, exception handling,
+recursion, 'linked' lists, 'stacks' and queues, '2023',
+        link: '',
+      },
+      {
+        name: 'Unix Scripting and Administration',
+        description: 'Introduced shells, editors, processes, system administration tasks, text processing, regular expressions, awk, perl, and makefiles, 2023',
+        link: '',
+      },
+      {
+        name: 'Computer Science I',
+        description: 'Introduced C++, the UNIX environment, and top-down design, 2022',
+        link: '',
+      },
+      {
+        name: 'Advanced Data Structures and Algorithms (High School)',
+        description: 'Introduced C#, Big O notation, frameworks, etc. , 2021',
         link: '',
       },
       {
@@ -43,17 +59,17 @@ module.exports = {
         link: '',
       },
       {
-        name: 'Advanced Data Structures and Algorithms (High School)',
-        description: 'Introduced C#, Big O notation, frameworks, etc. , 2021',
+        name: 'AP Computer Science Principles (High School)',
+        description: 'Learned JavaScript and the basics of computer science, 2019',
         link: '',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
-        name: 'Languages',
+        name: 'Languages (in order of proficiency)',
         description:
-          'JavaScript, Java, C#, HTML, CSS',
+          'C++, C#, Java, JavaScript, HTML, CSS',
       },
       {
         name: 'Frameworks',
@@ -67,7 +83,7 @@ module.exports = {
       {
         name: 'Ongoing',
         description:
-          'C++ and the Unix Environment',
+          'Data Structures, Computer Organization and Assembly Language, Discrete Math II',
       },
     ],
   },
