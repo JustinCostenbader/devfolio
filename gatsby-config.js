@@ -35,7 +35,7 @@ module.exports = {
       {
         name: 'Computer Science II',
         description: 'Introduced enumeration, structs, classes, inheritance, pointers, exception handling,
-recursion, 'linked' lists, 'stacks' and queues, '2023',
+recursion, linked lists, stacks and queues, 2023',
         link: '',
       },
       {
